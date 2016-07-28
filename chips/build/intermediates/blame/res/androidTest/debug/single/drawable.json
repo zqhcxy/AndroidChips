@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_font_secondary.xml",
+        "source": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_font_secondary.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_font_primary.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_font_primary.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_font_primary.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_font_primary.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_font_secondary.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_font_secondary.xml"
+    },
+    {
+        "merged": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_font_primary.xml",
+        "source": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_font_primary.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_font_secondary.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_font_secondary.xml"
+    }
+]

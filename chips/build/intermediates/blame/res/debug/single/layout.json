@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\copy_chip_dialog_layout.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\chips\\res\\layout\\copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\chips_alternate_item.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\chips\\res\\layout\\chips_alternate_item.xml"
+    },
+    {
+        "merged": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\more_item.xml",
+        "source": "D:\\DEMO\\android-chips-master\\library\\chips\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\copy_chip_dialog_layout.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\res\\layout\\copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\more_item.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\chips\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\more_item.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\chips_alternate_item.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\res\\layout\\chips_alternate_item.xml"
+    },
+    {
+        "merged": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\copy_chip_dialog_layout.xml",
+        "source": "D:\\DEMO\\android-chips-master\\library\\chips\\res\\layout\\copy_chip_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\chips_recipient_dropdown_item.xml",
+        "source": "D:\\DEMO\\android-chips-master\\library\\chips\\res\\layout\\chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\chips_recipient_dropdown_item.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\library\\chips\\res\\layout\\chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\chips_recipient_dropdown_item.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\chips\\res\\layout\\chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\res\\merged\\debug\\layout\\chips_alternate_item.xml",
+        "source": "D:\\DEMO\\android-chips-master\\library\\chips\\res\\layout\\chips_alternate_item.xml"
+    }
+]

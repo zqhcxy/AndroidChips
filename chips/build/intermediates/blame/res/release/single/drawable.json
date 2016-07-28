@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_font_secondary.xml",
+        "source": "D:\\DEMO\\android-chips-master\\library\\chips\\res\\drawable\\list_item_font_secondary.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_font_primary.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\chips\\res\\drawable\\list_item_font_primary.xml"
+    },
+    {
+        "merged": "D:\\DEMO\\android-chips-master\\library\\chips\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_font_primary.xml",
+        "source": "D:\\DEMO\\android-chips-master\\library\\chips\\res\\drawable\\list_item_font_primary.xml"
+    },
+    {
+        "merged": "D:\\MyGitHubPrj\\AndroidChips\\chips\\build\\intermediates\\res\\merged\\release\\drawable\\list_item_font_secondary.xml",
+        "source": "D:\\MyGitHubPrj\\AndroidChips\\chips\\res\\drawable\\list_item_font_secondary.xml"
+    }
+]
